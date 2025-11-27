@@ -5,8 +5,6 @@ import { About } from './components/about/about';
 import { Skills } from './components/skills/skills';
 import { Projects } from './components/projects/projects';
 import { Contact } from './components/contact/contact';
-// import { bootstrapApplication } from '@angular/platform-browser';
-
 
 @Component({
   selector: 'app-root',
@@ -15,6 +13,7 @@ import { Contact } from './components/contact/contact';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('portfolio-angular');
+  protected readonly title = signal('Portifólio');
+  currentYear: number = new Date().getFullYear();
 }
-// bootstrapApplication(App);
+
