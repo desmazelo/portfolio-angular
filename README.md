@@ -50,7 +50,7 @@ A organização do portfólio foi feita através de componentes modulares, segui
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone https://github.com/desmazelo/portfolio-angular.git
+    git clone https://github.com/rafaelotaviocampos/portfolio-angular.git
     cd portfolio-angular
     ```
 
@@ -93,7 +93,7 @@ Acesse a versão online do portfólio: [https://seu-portfolio.vercel.app](https:
 | :--- | :--- |
 | **Autor** | Rafael Otávio Campos |
 | **LinkedIn** | [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) |
-| **GitHub** | [desmazelo](https://github.com/desmazelo) |
+| **GitHub** | [rafaelotaviocampos](https://github.com/rafaelotaviocampos) |
 | **WhatsApp** | [+55 85 99236-6520](https://wa.me/5585992366520) |
 
 ---
